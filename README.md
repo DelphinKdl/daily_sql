@@ -1,2 +1,4 @@
-# daily_sql
-SQL-Query-solved
+# SQL-Query-solved
+
+
+
